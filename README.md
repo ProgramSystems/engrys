@@ -2,7 +2,7 @@
 Um projeto de rede social. 
 
 Muito legal e divertido.
-
+# 
 Classificação: 12 anos
 
 Detalhes:
